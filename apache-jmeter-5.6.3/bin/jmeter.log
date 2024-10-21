@@ -1,0 +1,123 @@
+2024-10-21 13:16:26,566 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-10-21 13:16:26,580 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-10-21 13:16:26,581 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-10-21 13:16:26,584 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: Version 5.6.3
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: java.version=11.0.19
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: os.name=Windows 11
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: os.arch=amd64
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: os.version=10.0
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: java.awt.headless=null
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-10-21 13:16:26,585 INFO o.a.j.JMeter: Available Processors =16
+2024-10-21 13:16:26,600 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-10-21 13:16:26,601 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-10-21 13:16:26,601 INFO o.a.j.JMeter: JMeterHome=C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\apache-jmeter-5.6.3
+2024-10-21 13:16:26,601 INFO o.a.j.JMeter: user.dir  =C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\apache-jmeter-5.6.3\bin
+2024-10-21 13:16:26,601 INFO o.a.j.JMeter: PWD       =C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\apache-jmeter-5.6.3\bin
+2024-10-21 13:16:26,605 INFO o.a.j.JMeter: IP: 192.168.5.63 Name: DhirajHP FullName: host.docker.internal
+2024-10-21 13:16:26,616 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-10-21 13:16:26,767 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-10-21 13:16:42,700 INFO o.a.j.s.FileServer: Default base='C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\apache-jmeter-5.6.3\bin'
+2024-10-21 13:16:42,702 INFO o.a.j.g.a.Load: Loading file: C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\TestPlanLoop.jmx
+2024-10-21 13:16:42,702 INFO o.a.j.s.FileServer: Set new base='C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter'
+2024-10-21 13:16:42,838 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-10-21 13:16:42,852 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-10-21 13:16:42,854 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-10-21 13:16:42,854 INFO o.a.j.s.SaveService: Loading file: C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\TestPlanLoop.jmx
+2024-10-21 13:16:42,876 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-21 13:16:42,876 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-21 13:16:42,876 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-21 13:16:42,876 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-10-21 13:16:42,876 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-10-21 13:16:42,876 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-10-21 13:16:42,993 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-10-21 13:16:42,993 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-10-21 13:16:42,993 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-10-21 13:16:42,993 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-10-21 13:16:43,223 INFO o.a.j.s.FileServer: Set new base='C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter'
+2024-10-21 13:16:49,933 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-21 13:16:49,933 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-21 13:16:49,933 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-21 13:16:49,934 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-10-21 13:16:49,934 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-10-21 13:16:50,077 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-21 13:16:50,103 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group LoginwithLoop
+2024-10-21 13:16:50,103 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group LoginwithLoop.
+2024-10-21 13:16:50,103 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-21 13:16:50,103 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2024-10-21 13:16:50,106 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-21 13:16:50,108 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-21 13:16:50,113 INFO o.a.j.t.JMeterThread: Thread started: Thread Group LoginwithLoop 1-1
+2024-10-21 13:16:50,114 INFO o.a.j.s.FileServer: Stored: C:/Users/dhira/Desktop/Dhiraj HP Laptop/Projects/JMeter/data.csv
+2024-10-21 13:16:50,611 INFO o.a.j.t.JMeterThread: Thread started: Thread Group LoginwithLoop 1-2
+2024-10-21 13:17:10,210 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group LoginwithLoop 1-1
+2024-10-21 13:17:10,210 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group LoginwithLoop 1-1
+2024-10-21 13:17:10,714 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group LoginwithLoop 1-2
+2024-10-21 13:17:10,714 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group LoginwithLoop 1-2
+2024-10-21 13:17:10,715 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-21 13:17:10,715 INFO o.a.j.s.FileServer: Close: C:/Users/dhira/Desktop/Dhiraj HP Laptop/Projects/JMeter/data.csv
+2024-10-21 13:17:10,716 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-21 13:20:34,058 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-21 13:20:34,058 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-21 13:20:34,062 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-21 13:20:34,087 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group LoginwithLoop
+2024-10-21 13:20:34,087 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group LoginwithLoop.
+2024-10-21 13:20:34,087 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-21 13:20:34,087 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2024-10-21 13:20:34,089 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-21 13:20:34,090 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-21 13:20:34,091 INFO o.a.j.t.JMeterThread: Thread started: Thread Group LoginwithLoop 1-1
+2024-10-21 13:20:34,092 INFO o.a.j.s.FileServer: Stored: C:/Users/dhira/Desktop/Dhiraj HP Laptop/Projects/JMeter/data.csv
+2024-10-21 13:20:34,591 INFO o.a.j.t.JMeterThread: Thread started: Thread Group LoginwithLoop 1-2
+2024-10-21 13:20:36,101 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DhirajHP
+2024-10-21 13:20:36,104 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2024-10-21 13:20:56,539 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group LoginwithLoop 1-1
+2024-10-21 13:20:56,540 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group LoginwithLoop 1-1
+2024-10-21 13:20:56,898 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group LoginwithLoop 1-2
+2024-10-21 13:20:56,898 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group LoginwithLoop 1-2
+2024-10-21 13:20:56,898 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-21 13:20:56,898 INFO o.a.j.s.FileServer: Close: C:/Users/dhira/Desktop/Dhiraj HP Laptop/Projects/JMeter/data.csv
+2024-10-21 13:20:56,899 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-21 13:21:56,117 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-21 13:21:56,117 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-21 13:21:56,119 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-21 13:21:56,123 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group LoginwithLoop
+2024-10-21 13:21:56,123 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group LoginwithLoop.
+2024-10-21 13:21:56,123 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-21 13:21:56,123 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2024-10-21 13:21:56,124 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-21 13:21:56,124 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-21 13:21:56,126 INFO o.a.j.t.JMeterThread: Thread started: Thread Group LoginwithLoop 1-1
+2024-10-21 13:21:56,126 INFO o.a.j.s.FileServer: Stored: C:/Users/dhira/Desktop/Dhiraj HP Laptop/Projects/JMeter/data.csv
+2024-10-21 13:21:56,631 INFO o.a.j.t.JMeterThread: Thread started: Thread Group LoginwithLoop 1-2
+2024-10-21 13:22:18,478 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group LoginwithLoop 1-1
+2024-10-21 13:22:18,478 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group LoginwithLoop 1-1
+2024-10-21 13:22:19,117 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group LoginwithLoop 1-2
+2024-10-21 13:22:19,118 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group LoginwithLoop 1-2
+2024-10-21 13:22:19,119 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-21 13:22:19,119 INFO o.a.j.s.FileServer: Close: C:/Users/dhira/Desktop/Dhiraj HP Laptop/Projects/JMeter/data.csv
+2024-10-21 13:22:19,121 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2024-10-21 13:29:37,084 INFO o.a.j.g.a.Load: Loading file: C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\TestPlan-LoginCSVfile.jmx
+2024-10-21 13:29:37,085 INFO o.a.j.s.FileServer: Set new base='C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter'
+2024-10-21 13:29:37,085 INFO o.a.j.s.SaveService: Loading file: C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter\TestPlan-LoginCSVfile.jmx
+2024-10-21 13:29:37,162 INFO o.a.j.s.FileServer: Set new base='C:\Users\dhira\Desktop\Dhiraj HP Laptop\Projects\JMeter'
+2024-10-21 13:30:21,782 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-10-21 13:30:21,782 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-10-21 13:30:21,784 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-10-21 13:30:21,822 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group - Login performance
+2024-10-21 13:30:21,822 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group - Login performance.
+2024-10-21 13:30:21,822 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-10-21 13:30:21,822 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=1 delayedStart=false
+2024-10-21 13:30:21,823 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-10-21 13:30:21,823 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-10-21 13:30:21,824 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Login performance 1-1
+2024-10-21 13:30:22,205 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group - Login performance 1-1
+2024-10-21 13:30:22,205 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Login performance 1-1
+2024-10-21 13:30:22,327 INFO o.a.j.t.JMeterThread: Thread started: Thread Group - Login performance 1-2
+2024-10-21 13:30:22,617 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group - Login performance 1-2
+2024-10-21 13:30:22,617 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group - Login performance 1-2
+2024-10-21 13:30:22,617 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-10-21 13:30:22,617 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
